@@ -1,6 +1,6 @@
 {
   "name": "pi-codex-rotate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Manage multiple ChatGPT Codex OAuth accounts with rotation and refresh in Pi",
   "keywords": [
     "pi",
