@@ -26,5 +26,13 @@
   "peerDependencies": {
     "@mariozechner/pi-coding-agent": ">=0.57.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuansondinh/pi-codex-rotate.git"
+  },
+  "homepage": "https://github.com/tuansondinh/pi-codex-rotate#readme",
+  "bugs": {
+    "url": "https://github.com/tuansondinh/pi-codex-rotate/issues"
+  },
   "license": "MIT"
 }
